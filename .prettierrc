@@ -1,0 +1,19 @@
+{
+    "semi": true,
+    "trailingComma": "es5",
+    "singleQuote": false,
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabs": true,
+    "arrowParens": "always",
+    "jsxSingleQuote": false,
+    "jsxBracketSameLine": false,
+    "bracketSameLine": false,
+    "parser": "typescript",
+    "bracketSpacing": true,
+    "endOfLine": "lf",
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "embeddedLanguageFormatting": "auto",
+    "singleAttributePerLine": false
+}
