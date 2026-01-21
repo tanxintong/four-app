@@ -19,3 +19,12 @@ export const NavList = [
 		list: ["GitHub", "Documentation", "Source Code"],
 	},
 ];
+
+export const SortTitle = "Sort by";
+export const SortList = [
+	{ value: "latest", text: "Latest Arrivals" },
+	{ value: "low", text: "Price: Low -&gt High" },
+	{ value: "high", text: "Price: High -&gt Low" },
+];
+
+export const ProductsTitle = "All products";
