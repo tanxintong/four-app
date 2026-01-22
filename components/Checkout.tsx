@@ -1,7 +1,7 @@
 "use client";
 
 import { Address, CartItem } from "@/types/global";
-import { ArrowUpRight, Trash2 } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 import {
 	Table,
