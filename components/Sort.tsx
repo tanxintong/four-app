@@ -1,5 +1,5 @@
 "use client";
-import { ToggleGroup, ToggleGroupItem } from "./ui/toggle-group";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import { SortValue } from "@/types/global";
 import { SortTitle, SortList } from "@/lib/constants";
 import { useSortStore } from "@/store";
